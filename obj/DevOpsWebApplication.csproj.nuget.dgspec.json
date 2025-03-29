@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/thomasboulundmenghansen/Desktop/DevOpsWebApplication/DevOpsWebApplication/DevOpsWebApplication.csproj": {}
+    "C:\\Users\\nayli\\Desktop\\DevOpsWebApplication\\DevOpsWebApplication\\DevOpsWebApplication.csproj": {}
   },
   "projects": {
-    "/Users/thomasboulundmenghansen/Desktop/DevOpsWebApplication/DevOpsWebApplication/DevOpsWebApplication.csproj": {
+    "C:\\Users\\nayli\\Desktop\\DevOpsWebApplication\\DevOpsWebApplication\\DevOpsWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/thomasboulundmenghansen/Desktop/DevOpsWebApplication/DevOpsWebApplication/DevOpsWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\nayli\\Desktop\\DevOpsWebApplication\\DevOpsWebApplication\\DevOpsWebApplication.csproj",
         "projectName": "DevOpsWebApplication",
-        "projectPath": "/Users/thomasboulundmenghansen/Desktop/DevOpsWebApplication/DevOpsWebApplication/DevOpsWebApplication.csproj",
-        "packagesPath": "/Users/thomasboulundmenghansen/.nuget/packages/",
-        "outputPath": "/Users/thomasboulundmenghansen/Desktop/DevOpsWebApplication/DevOpsWebApplication/obj/",
+        "projectPath": "C:\\Users\\nayli\\Desktop\\DevOpsWebApplication\\DevOpsWebApplication\\DevOpsWebApplication.csproj",
+        "packagesPath": "C:\\Users\\nayli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nayli\\Desktop\\DevOpsWebApplication\\DevOpsWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/thomasboulundmenghansen/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\nayli\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
